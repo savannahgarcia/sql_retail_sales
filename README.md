@@ -192,4 +192,4 @@ GROUP BY shift;
 
 ## Conclusion
 
-This project was created by Zero Analyst and serves as an intro, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project was created by Zero Analyst and serves as an intro to covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
